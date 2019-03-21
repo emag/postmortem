@@ -1,3 +1,3 @@
 package postmortem.domain.model
 
-case class Issue()
+case class CaseId(value: String)
