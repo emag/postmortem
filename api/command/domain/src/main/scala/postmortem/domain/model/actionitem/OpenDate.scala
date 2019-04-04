@@ -1,4 +1,4 @@
-package postmortem.domain.model
+package postmortem.domain.model.actionitem
 
 import java.time.Instant
 
